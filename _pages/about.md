@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher at Johannes Kepler University with prime focus on Artificial Intelligence and applications of Machine Learning. Experienced in Full Stack .Net Development, Blockchain Developement, C#, R and Python. Being a hardcore tech-savvy, I am a firm believer of exploring new technologies and employ them to improve the organization's productivity.
+I am a doctoral researcher at Johannes Kepler University with prime focus on Artificial Intelligence and applications of Machine Learning. Experienced in Full Stack .Net Development, Blockchain Developement, C#, R and Python. Being a hardcore tech-savvy, I firmly believe in exploring new technologies and employing those to enhance organization's productivity.
