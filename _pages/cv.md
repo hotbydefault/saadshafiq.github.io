@@ -45,10 +45,10 @@ Analyze and evaluate client requests in order to develop new functionality
 
 * Jan 2016 - Jan 2017: Research Assistant
   * National University of Computer and Emerging Sciences
-  * Duties included: Research and identify major research gaps in the area of Requirement Engineering, machine learning, and Agile Software Development Processes. 
+  * Duties included: Research and identify major research gaps in the area of Requirements Engineering, Machine Learning, and Agile Software Development Processes. 
 Perform Social Network Analysis on large datasets using UCINet and Gephi. 
 Produce and publish research articles in Tier-1 and high impact Journals and conferences.
-Collaborate with the most active researchers in the domain of Requirement Engineering, Data Science, Machine Learning and Software Testing.
+Collaborate with the most active researchers in the domain of Requirements Engineering, Data Science, Machine Learning and Software Testing.
 Analyze large datasets and produce meaningful insights using current machine learning algorithms
   
 Publications
