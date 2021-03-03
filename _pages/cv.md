@@ -20,36 +20,36 @@ Work experience
   
 * Feb 2019 - May 2019: Blockchain Developer
   * MTBC
-  * Duties included: Responsible for setting up a highly resilient and sustainable blockchain network architecture.
-Ensuring stable and robust distributed environment using Kubernetes.
-Implementing Hyperledger fabric framework and working on script automation.
-Proficient in Hyperledger tools such Hyperledger composer and Hyperledger explorer.
-Writing business logic chaincodes in golang and node.js.
-Hands on experience in writing smart contracts in solidity (Ethereum).
-Creating DApps (Distributed applications) with REST APIs’
+  * Duties included: Responsible for setting up a highly resilient and sustainable blockchain network architecture
+Ensured stable and robust distributed environment using Kubernetes
+Implemented Hyperledger fabric framework and working on script automation
+Proficient in Hyperledger tools such Hyperledger composer and Hyperledger explorer
+Written business logic chaincodes in golang and node.js
+Hands on experience with writing smart contracts in solidity (Ethereum)
+Created DApps (Distributed applications) with exposed REST APIs’
   
 * Jan 2018 - Feb 2019: Software Engineer
   * MTBC
-  * Duties included: Responsible for deployments to QA, Staging and Production environment as being the release owner in the team.
-Responsible for merging the code of entire team on TFS.
-Rigorously followed agile methodologies (SCRUM, Kanban) in the development process using JIRA.
-Implement the latest hashing algorithm in the system.
-Create stored procedures for reporting and analytics.
-Perform JSON manipulation and Schema validation.
-Enhance product’s performance by implementing bulk insertions to database and enabling multi-threading.
-Liaison between Product Owners to ensure development and operations are moving in the right direction.
-Design the architecture of new modules of the system.
-Develop Web APIs for new modules in the system.
-Manage support and helpdesk team to always cater to client needs.
-Analyze and evaluate client requests in order to develop new functionality
+  * Duties included: Responsible for deployments to QA, Staging and Production environment as being the release owner in the team
+Responsible for merging the code of entire team on TFS
+Rigorously followed agile methodologies (SCRUM, Kanban) in the development process using JIRA
+Implemented the latest hashing algorithm in the system
+Created stored procedures for reporting and analytics
+Performed JSON manipulation and Schema validation
+Enhanced product’s performance by implementing bulk insertions to database and enabling multi-threading
+Acted as a liaison between Product Owners and the team to ensure development and operations are moving in the right direction
+Designed the architecture of new modules of the system
+Developed Web APIs for new modules in the system
+Managed support and helpdesk team to always cater to client needs
+Analyzed and evaluated client requests in order to develop new functionality
 
 * Jan 2016 - Jan 2017: Research Assistant
   * National University of Computer and Emerging Sciences
-  * Duties included: Research and identify major research gaps in the area of Requirements Engineering, Machine Learning, and Agile Software Development Processes. 
-Perform Social Network Analysis on large datasets using UCINet and Gephi. 
-Produce and publish research articles in Tier-1 and high impact Journals and conferences.
-Collaborate with the most active researchers in the domain of Requirements Engineering, Data Science, Machine Learning and Software Testing.
-Analyze large datasets and produce meaningful insights using current machine learning algorithms
+  * Duties included: Conducted research to identify major research gaps in the area of Requirement Engineering, Machine Learning, and Agile Software Development Processes
+Performed Social Network Analysis on large datasets using UCINet and Gephi Produce
+Published research articles in Tier-1 and high impact Journals and conferences
+Collaborated with the active researchers in the domain of Requirement Engineering, Data Science, Machine Learning and Software Testing
+Analyzed large datasets and produced meaningful insights using contemporary machine learning algorithms
   
 Publications
 ======
