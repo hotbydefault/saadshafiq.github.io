@@ -53,7 +53,7 @@ Analyzed large datasets and produced meaningful insights using contemporary mach
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -63,12 +63,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Teaching
+# ======
+  # <ul>{% for post in site.teaching %}
+    # {% include archive-single-cv.html %}
+  # {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
