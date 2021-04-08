@@ -22,8 +22,8 @@ Work experience
   * MTBC
   * Duties included: Responsible for setting up a highly resilient and sustainable blockchain network architecture
 Ensured stable and robust distributed environment using Kubernetes
-Implemented Hyperledger fabric framework and working on script automation
-Proficient in Hyperledger tools such Hyperledger composer and Hyperledger explorer
+Implemented Hyperledger fabric framework and worked on script automation
+Proficient in Hyperledger tools such as Hyperledger Composer and Hyperledger Explorer
 Written business logic chaincodes in golang and node.js
 Hands on experience with writing smart contracts in solidity (Ethereum)
 Created DApps (Distributed applications) with exposed REST APIs’
