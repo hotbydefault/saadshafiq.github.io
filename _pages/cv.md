@@ -21,13 +21,13 @@ Work experience
 * Feb 2019 - May 2019: Blockchain Developer
   * MTBC
   * Duties included:
-    * Responsible for setting up a highly resilient and sustainable blockchain network architecture\
-    * Ensured stable and robust distributed environment using Kubernetes\
-    * Implemented Hyperledger fabric framework and worked on script automation\
-    * Proficient in Hyperledger tools such as Hyperledger Composer and Hyperledger Explorer\
-    * Written business logic chaincodes in golang and node.js\
-    * Hands on experience with writing smart contracts in solidity (Ethereum)\
-    * Created DApps (Distributed applications) with exposed REST APIs’\
+    * Responsible for setting up a highly resilient and sustainable blockchain network architecture
+    * Ensured stable and robust distributed environment using Kubernetes
+    * Implemented Hyperledger fabric framework and worked on script automation
+    * Proficient in Hyperledger tools such as Hyperledger Composer and Hyperledger Explorer
+    * Written business logic chaincodes in golang and node.js
+    * Hands on experience with writing smart contracts in solidity (Ethereum)
+    * Created DApps (Distributed applications) with exposed REST APIs’
   
 * Jan 2018 - Feb 2019: Software Engineer
   * MTBC
