@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-VN71P8V28R
+    tracking_id          : "G-VN71P8V28R"
 
 
 # Site Author
