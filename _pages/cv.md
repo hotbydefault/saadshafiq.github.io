@@ -49,7 +49,7 @@ Work experience
   * National University of Computer and Emerging Sciences
   * Duties included:
     * Conducted research to identify major research gaps in the area of Requirements Engineering, Machine Learning, and Agile Software Development Processes
-    * Performed Social Network Analysis on large datasets using UCINet and Gephi Produce
+    * Performed Social Network Analysis on large datasets using UCINet and Gephi
     * Published research articles in Tier-1 and high impact Journals and conferences
     * Collaborated with the active researchers in the domain of Requirement Engineering, Data Science, Machine Learning and Software Testing
     * Analyzed large datasets and produced meaningful insights using contemporary machine learning algorithms
